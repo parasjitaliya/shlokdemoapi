@@ -1,0 +1,14 @@
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\bin\Debug\netcoreapp2.2\TestingDemoAPI.deps.json
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\bin\Debug\netcoreapp2.2\TestingDemoAPI.runtimeconfig.json
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\bin\Debug\netcoreapp2.2\TestingDemoAPI.runtimeconfig.dev.json
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\bin\Debug\netcoreapp2.2\TestingDemoAPI.dll
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\bin\Debug\netcoreapp2.2\TestingDemoAPI.pdb
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.csprojAssemblyReference.cache
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.csproj.CoreCompileInputs.cache
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.RazorAssemblyInfo.cache
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.RazorAssemblyInfo.cs
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.AssemblyInfoInputs.cache
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.AssemblyInfo.cs
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.RazorTargetAssemblyInfo.cache
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.dll
+D:\Shlok Barot\Projects\Demo API\TestingDemoAPI\TestingDemoAPI\obj\Debug\netcoreapp2.2\TestingDemoAPI.pdb
